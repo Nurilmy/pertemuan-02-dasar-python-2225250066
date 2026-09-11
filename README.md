@@ -34,3 +34,7 @@ python latihan/02_persegi_panjang.py
 python latihan/03_konversi_suhu.py
 python latihan/04_nilai_akhir.py
 python tugas/kalkulator_koordinat.py
+
+## Refleksi
+
+Saya mempelajari dasar-dasar Python seperti variabel, input-output, operator, dan perhitungan sederhana. Saya juga belajar menggunakan Git dan GitHub untuk mengelola dan menyimpan program. Kesulitan saya adalah memahami proses commit dan push, tetapi setelah mencoba saya mulai memahaminya.
